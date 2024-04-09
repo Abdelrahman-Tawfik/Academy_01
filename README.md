@@ -3,3 +3,5 @@
 ## Giorno 10
 
 **Git** commands and **CI/CD** Basics
+
+**__Hello World !!__**
